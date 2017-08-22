@@ -1,0 +1,28 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "Lab 7 ",
+  "main": "server.js",
+  "scripts": {
+    "test": "No tests",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ztaylor2/07-nodejs-npm-express.git"
+  },
+  "keywords": [
+    "lab",
+    "codefellows"
+  ],
+  "author": "zach-erik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ztaylor2/07-nodejs-npm-express/issues"
+  },
+  "homepage": "https://github.com/ztaylor2/07-nodejs-npm-express#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
